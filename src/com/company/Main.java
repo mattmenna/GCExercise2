@@ -1,4 +1,5 @@
 package com.company;
+
 /*
 Prompt the user to enter a number. After the user enters a number, add 1 to the number and output it back to the console
  */
@@ -14,4 +15,5 @@ public class Main {
 	int output = input + 1;
 	System.out.println(output);
     }
+
 }
